@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.exe
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.deps.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\refint\04. Vacation Books List.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net8.0\ref\04. Vacation Books List.dll
