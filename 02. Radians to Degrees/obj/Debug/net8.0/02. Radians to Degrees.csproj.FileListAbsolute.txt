@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.exe
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.deps.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net8.0\02. Radians to Degrees.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\refint\02. Radians to Degrees.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\02. Radians to Degrees.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net8.0\ref\02. Radians to Degrees.dll
