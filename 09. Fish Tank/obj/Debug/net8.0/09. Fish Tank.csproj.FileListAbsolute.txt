@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.exe
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.deps.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\refint\09. Fish Tank.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\ref\09. Fish Tank.dll
