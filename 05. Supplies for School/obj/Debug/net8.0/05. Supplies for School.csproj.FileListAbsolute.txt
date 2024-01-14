@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.exe
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.deps.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\refint\05. Supplies for School.dll
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.pdb
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\net8.0\ref\05. Supplies for School.dll
